@@ -3,6 +3,7 @@
     color: black;
     text-align: center;
     padding: 15px;
+    border-radius: 10px;
     
 }
  .body{
@@ -10,6 +11,7 @@
     margin: 0;
     padding: 0;
     background-color: aqua;
+    border-radius: 10px;
     
  }
  .img{
@@ -25,4 +27,5 @@
    margin: 20px;
    text-align: center;
    font-size: 18px;
+   border-radius: 10px;
  }
